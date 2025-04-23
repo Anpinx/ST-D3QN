@@ -75,7 +75,7 @@ pip install numpy matplotlib torch argparse
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your_username/ST-D3QN-UAV-Path-Planning.git
+   git clone https://github.com/Anpinx/ST-D3QN.git
    cd ST-D3QN-UAV-Path-Planning
    ```
 
