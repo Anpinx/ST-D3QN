@@ -58,7 +58,7 @@ This project provides a simulation environment and implementation of the ST-D3QN
 
 Ensure that you have the following dependencies installed:
 
-- Python 3.7 or higher
+- Python 3.8 or higher
 - `numpy`
 - `matplotlib`
 - `torch` (PyTorch)
