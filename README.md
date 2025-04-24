@@ -155,10 +155,6 @@ python test_ST_D3QN.py
 
 *(For detailed results and plots, refer to the associated research article or generate them by running the training and testing scripts.)*
 
-## References
-
-- [1] *ST-D3QN: Advancing UAV Path Planning With an Enhanced Deep Reinforcement Learning Framework in Ultra-Low Altitudes* (Provide the actual reference to the article if available).
-
 ## Frequently Asked Questions
 
 **1. Can I modify the environment parameters (e.g., grid size, obstacle positions)?**
