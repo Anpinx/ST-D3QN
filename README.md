@@ -1,6 +1,8 @@
 # ST-D3QN: UAV Path Planning with Enhanced Deep Reinforcement Learning
 
 This project is an implementation of the **ST-D3QN** algorithm, which is an enhanced Deep Reinforcement Learning (DRL) framework for Unmanned Aerial Vehicle (UAV) path planning in ultra-low altitude environments. The algorithm combines the Dueling Double Deep Q-Network (D3QN) with the A* (A-star) algorithm to improve UAV trajectory optimization, obstacle avoidance, and reward optimization in complex environments.
+![ST-D3QN](https://github.com/user-attachments/assets/ca602541-6fce-4b3f-af9b-0e976c38d59a)
+
 
 ## Table of Contents
 
