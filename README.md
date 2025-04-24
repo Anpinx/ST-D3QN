@@ -54,7 +54,6 @@ This project provides a simulation environment and implementation of the ST-D3QN
 - `train_ST_D3QN.py`: Script to train the ST-D3QN model.
 - `test_ST_D3QN.py`: Script to test the trained model.
 - `checkpoints/`: Directory to save and load model checkpoints.
-- `data/`: Directory to save training data and logs.
 
 ## Dependencies
 
@@ -99,7 +98,6 @@ pip install numpy matplotlib torch argparse
    checkpoints/ST_D3QN/
    checkpoints/ST_D3QN/Q_eval/
    checkpoints/ST_D3QN/Q_target/
-   data/ST_D3QN/
    ```
 
    You can create these directories using the provided `utils.py` utility or manually.
